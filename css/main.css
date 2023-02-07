@@ -1,0 +1,27 @@
+div.head{
+    width: 3117px;
+    height: 156px;
+    background-color: black;
+}
+div.content{ 
+}
+div.footer{
+    position: absolute;
+    width:1205px;
+    height: 177px;
+    background-color: rgba(248, 250, 252, 1);
+    bottom: 130px;
+    left: 200px;
+    stroke: rgba(208, 213, 221, 1);
+    box-shadow: 1px 1px 3px 1px #dadce0 inset;
+}
+input.input{
+    position: absolute;
+    width: 1100px;
+    height: 100px;
+    left:53px;
+    font-size: 30px;
+    bottom: 35px;
+    background-color: rgba(248, 250, 252, 1);
+}
+input:focus {outline:none;}
